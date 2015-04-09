@@ -1,0 +1,17 @@
+{
+  "name": "project_hapi",
+  "version": "1.0.0",
+  "description": "My first  Webserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ken",
+  "license": "ISC",
+  "keywords": [
+    "hapi"
+  ],
+  "dependencies": {
+    "hapi": "^8.4.0"
+  }
+}
